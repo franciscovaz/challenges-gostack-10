@@ -1,1 +1,1 @@
-<img src="gifs/startsOfRepos.gif" width="550" height="450" />
+<img src="gifs/startsOfRepos.gif" width="450" height="770" />
